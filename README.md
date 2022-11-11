@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Mahdi72Y
+- 👋 Hi, I’m @Mahdi-Rahimi
 - 👀 I’m interested in coding front and back-end, wrestling and reading books
 - 🌱 I’m currently learning Computer Science at Herat University
 - 💞️ I’m looking to collaborate on companies or developers who want to help other for making better life
